@@ -4,7 +4,7 @@ A TCP proxy for interecepting packets sent and recieved for the game Re:Spite.
 
 #### MIT License
 
-Copyright © 2018 Augie Luebbers <augie.luebbers.email>
+Copyright © 2018 Augie Luebbers <augie.luebbers@email>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
