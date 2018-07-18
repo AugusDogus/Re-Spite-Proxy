@@ -1,0 +1,7 @@
+C:\Users\Augie\Source\Repos\Re-Spite Proxy\Re-Spite Proxy\bin\Debug\Re-Spite Proxy.exe.config
+C:\Users\Augie\Source\Repos\Re-Spite Proxy\Re-Spite Proxy\bin\Debug\Re-Spite Proxy.exe
+C:\Users\Augie\Source\Repos\Re-Spite Proxy\Re-Spite Proxy\bin\Debug\Re-Spite Proxy.pdb
+C:\Users\Augie\Source\Repos\Re-Spite Proxy\Re-Spite Proxy\obj\Debug\Re-Spite Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Augie\Source\Repos\Re-Spite Proxy\Re-Spite Proxy\obj\Debug\Re-Spite Proxy.exe
+C:\Users\Augie\Source\Repos\Re-Spite Proxy\Re-Spite Proxy\obj\Debug\Re-Spite Proxy.pdb
+C:\Users\Augie\Source\Repos\Re-Spite Proxy\Re-Spite Proxy\obj\Debug\Re-Spite Proxy.csprojAssemblyReference.cache
